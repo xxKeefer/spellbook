@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "846df056a1b3117f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1a35a7b3c87f8dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37e845bfc334eb17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functional Programming/Category Theory/What is a Category.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c73ed12a1ad26a2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "646934c43258356e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ad54d5fb502d8e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3066b170578b03b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ed81b95050e5bdd0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fa3d92e3e1afcbab",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac225b287fd4c241",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6915dfe6d66fb7a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Functional Programming/Category Theory/What is a Category.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7280a4064fe3ec6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Functional Programming/Category Theory/What is a Category.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e92e4c8315bb8a29",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "57ff6e25b550f21b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Functional Programming/Category Theory/What is a Category.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "1ad54d5fb502d8e6",
+  "lastOpenFiles": []
+}
