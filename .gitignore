@@ -1,0 +1,3 @@
+# ignore some config files
+.markdownlint.json
+.vscode
