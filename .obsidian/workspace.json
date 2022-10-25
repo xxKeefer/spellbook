@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functional Programming/Category Theory/What is a Category.md",
+                "file": "Functional Programming/Category Theory/Category Theory 1.2 - What is a category?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "325f8b2d87b125ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functional Programming/Category Theory/Category Theory 2.1 - Functions, epimorphisms.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functional Programming/Category Theory/What is a Category.md",
+                "file": "Functional Programming/Category Theory/Category Theory 2.1 - Functions, epimorphisms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functional Programming/Category Theory/What is a Category.md",
+                "file": "Functional Programming/Category Theory/Category Theory 2.1 - Functions, epimorphisms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functional Programming/Category Theory/What is a Category.md"
+                "file": "Functional Programming/Category Theory/Category Theory 2.1 - Functions, epimorphisms.md"
               }
             }
           }
@@ -139,6 +152,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1ad54d5fb502d8e6",
-  "lastOpenFiles": []
+  "active": "325f8b2d87b125ac",
+  "lastOpenFiles": [
+    "Functional Programming/Category Theory/Category Theory 1.2 - What is a category?.md",
+    "Functional Programming/Category Theory/Category Theory 2.1 - Functions, epimorphisms.md"
+  ]
 }
